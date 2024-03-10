@@ -1,0 +1,15 @@
+C:\Users\tural\Desktop\FirstCourse\FirstCourse\obj\Debug\net7.0\FirstCourse.csproj.AssemblyReference.cache
+C:\Users\tural\Desktop\FirstCourse\FirstCourse\obj\Debug\net7.0\FirstCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tural\Desktop\FirstCourse\FirstCourse\obj\Debug\net7.0\FirstCourse.AssemblyInfoInputs.cache
+C:\Users\tural\Desktop\FirstCourse\FirstCourse\obj\Debug\net7.0\FirstCourse.AssemblyInfo.cs
+C:\Users\tural\Desktop\FirstCourse\FirstCourse\obj\Debug\net7.0\FirstCourse.csproj.CoreCompileInputs.cache
+C:\Users\tural\Desktop\FirstCourse\FirstCourse\bin\Debug\net7.0\FirstCourse.exe
+C:\Users\tural\Desktop\FirstCourse\FirstCourse\bin\Debug\net7.0\FirstCourse.deps.json
+C:\Users\tural\Desktop\FirstCourse\FirstCourse\bin\Debug\net7.0\FirstCourse.runtimeconfig.json
+C:\Users\tural\Desktop\FirstCourse\FirstCourse\bin\Debug\net7.0\FirstCourse.dll
+C:\Users\tural\Desktop\FirstCourse\FirstCourse\bin\Debug\net7.0\FirstCourse.pdb
+C:\Users\tural\Desktop\FirstCourse\FirstCourse\obj\Debug\net7.0\FirstCourse.dll
+C:\Users\tural\Desktop\FirstCourse\FirstCourse\obj\Debug\net7.0\refint\FirstCourse.dll
+C:\Users\tural\Desktop\FirstCourse\FirstCourse\obj\Debug\net7.0\FirstCourse.pdb
+C:\Users\tural\Desktop\FirstCourse\FirstCourse\obj\Debug\net7.0\FirstCourse.genruntimeconfig.cache
+C:\Users\tural\Desktop\FirstCourse\FirstCourse\obj\Debug\net7.0\ref\FirstCourse.dll
